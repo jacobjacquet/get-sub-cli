@@ -12,9 +12,6 @@
     "meow": "^5.0.0"
   },
   "devDependencies": {
-    "@types/meow": "^5.0.0",
-    "jest": "^24.7.1",
-    "ts-node": "^8.0.3",
-    "typescript": "^3.4.3"
+    "jest": "^24.7.1"
   }
 }

@@ -1,4 +1,4 @@
-#!/usr/bin/env ts-node
+#!/usr/bin/env node
 const meow = require('meow')
 const subway = require('./subway.json')
 
