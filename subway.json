@@ -1,0 +1,40 @@
+{
+  "type": [
+    "BLT",
+    "Bacon, Egg & cheese",
+    "Black Forest Ham & Egg, Cheese",
+    "Chicken & Bacon Ranch",
+    "Egg Mayo",
+    "Ham",
+    "Italian BMT",
+    "Roasted Beef",
+    "Spicy Italian",
+    "Spicy Italian",
+    "Steak & Cheese",
+    "Steak, Egg & cheese",
+    "Subway Club",
+    "Tuna",
+    "Turkey",
+    "Turkey Bacon",
+    "Turkey Bacon Avocado",
+    "Veggie Delite"
+  ],
+  "bread": [
+    "9 Grain Wheat",
+    "Flatbread",
+    "Honey Oats",
+    "Italian",
+    "Italian Herbs & Cheese"
+  ],
+  "sauce": [
+    "Chillie",
+    "Chipotle Southwest",
+    "Honey Mustard",
+    "Mayonnaise",
+    "Mustard",
+    "Olive Oil",
+    "Ranch",
+    "Red Wind Venigar",
+    "Sweet Onion"
+  ]
+}
